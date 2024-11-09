@@ -1,0 +1,143 @@
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.AssemblyReference.cache
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Release\Interop.MSTSCLib.dll
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Release\Interop.RDS.dll
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.ResolveComReference.cache
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.AssemblyReference.cache
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Interop.MSTSCLib.dll
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Interop.RDS.dll
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.ResolveComReference.cache
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.AddingUpdatingForms.Add_Workstation.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.SubAdmin.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.AdminForms.WorkStationView.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Fullscreen.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.InstructorIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Incharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Login.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditRoom.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddRoom.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddWorkstationAdmin.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditSystemUnitsAdmin.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditUserDetails.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditWorkstationAdmin.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditWorkstationIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddWorkstationIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditSystemUnitsIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddSystemUnitsIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddSystemUnits.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditAssetsIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddAssetsIncharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddAssets.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditUser.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddUser.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditSchedule.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddSchedule.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.EditStudent.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.AddStudent.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.LabAssets.uc_lab1_assets.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.LabAssets.uc_lab2_assets.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_assets_inventory.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_calendar_schedules.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_temporary_schedules.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_schedules.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_system_units.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_rooms.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_users.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_students.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Admin.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Instructor.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Properties.Resources.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Controls.uc_workstations.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.uc_repair_history.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.uc_replacement_history.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.uc_system_units_incharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.Controls.uc_workstations_incharge.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.RequestSchedule.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.ReplacementForm.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.AdminControls.Crud.RequestForm.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.Message.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.uc_assets_instructor.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.uc_assets.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.uc_attendance.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.InstructorsControls.uc_remoteview.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory_Management_System.UserControls.LaboratoryInchargeControls.uc_asset_requests.resources
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.GenerateResource.cache
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.CoreCompileInputs.cache
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Laboratory Management System.exe.config
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Laboratory Management System.exe
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Laboratory Management System.pdb
+C:\Laboratory Management System\Laboratory Management System\bin\Release\BouncyCastle.Crypto.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\BouncyCastle.Cryptography.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\DevExpress.Data.v24.1.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ExcelDataReader.DataSet.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ExcelDataReader.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\FontAwesome.Sharp.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Google.Protobuf.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\GumroadLicensing.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\itextsharp.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\K4os.Compression.LZ4.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\K4os.Hash.xxHash.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\MySql.Data.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Newtonsoft.Json.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Npgsql.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.Common.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.Interfaces.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.MySql.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.Oracle.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.PostgreSQL.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.SqlServer.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.Text.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\SharpRemote.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\SharpRemote.Host.exe
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Buffers.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Memory.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Numerics.Vectors.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Text.Encodings.Web.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Text.Json.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.ValueTuple.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Telerik.SvgIcons.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Ubiety.Dns.Core.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\VncSharp.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Zstandard.Net.dll
+C:\Laboratory Management System\Laboratory Management System\bin\Release\BouncyCastle.Cryptography.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\DevExpress.Data.v24.1.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ExcelDataReader.pdb
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ExcelDataReader.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ExcelDataReader.DataSet.pdb
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ExcelDataReader.DataSet.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Google.Protobuf.pdb
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Google.Protobuf.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\itextsharp.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\K4os.Compression.LZ4.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\K4os.Hash.xxHash.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\MySql.Data.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Newtonsoft.Json.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\Npgsql.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.Common.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.MySql.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.Oracle.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.PostgreSQL.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.OrmLite.SqlServer.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\ServiceStack.Text.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\SharpRemote.pdb
+C:\Laboratory Management System\Laboratory Management System\bin\Release\SharpRemote.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\SharpRemote.Host.pdb
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Buffers.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Memory.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Numerics.Vectors.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Text.Encodings.Web.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Text.Json.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Laboratory Management System\Laboratory Management System\bin\Release\System.ValueTuple.xml
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Computer Laboratory Management System.csproj.CopyComplete
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory Management System.exe
+C:\Laboratory Management System\Laboratory Management System\obj\Release\Laboratory Management System.pdb

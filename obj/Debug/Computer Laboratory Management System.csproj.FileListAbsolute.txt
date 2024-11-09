@@ -1,0 +1,151 @@
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Laboratory Management System.exe.config
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Laboratory Management System.exe
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Laboratory Management System.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\BouncyCastle.Crypto.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\DevExpress.Data.v24.1.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\FontAwesome.Sharp.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Google.Protobuf.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\GumroadLicensing.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\K4os.Compression.LZ4.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\K4os.Hash.xxHash.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\MySql.Data.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Newtonsoft.Json.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Npgsql.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.Common.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.Interfaces.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.MySql.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.Oracle.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.PostgreSQL.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.SqlServer.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.Text.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Buffers.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Memory.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Numerics.Vectors.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Text.Encodings.Web.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Text.Json.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.ValueTuple.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Telerik.SvgIcons.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Ubiety.Dns.Core.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\VncSharp.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Zstandard.Net.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\DevExpress.Data.v24.1.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Google.Protobuf.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Google.Protobuf.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\K4os.Compression.LZ4.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\K4os.Hash.xxHash.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\MySql.Data.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Newtonsoft.Json.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\Npgsql.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.Common.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.MySql.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.Oracle.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.PostgreSQL.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.OrmLite.SqlServer.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ServiceStack.Text.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Buffers.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Memory.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Numerics.Vectors.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Text.Encodings.Web.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Text.Json.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\System.ValueTuple.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.AssemblyReference.cache
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Fullscreen.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Controls.uc_workstations.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Admin.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Instructor.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Properties.Resources.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.uc_attendance.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.uc_remoteview.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.GenerateResource.cache
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.CoreCompileInputs.cache
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Computer.FA77FDA5.Up2Date
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory Management System.exe
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory Management System.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\SharpRemote.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\SharpRemote.Host.exe
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\SharpRemote.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\SharpRemote.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\SharpRemote.Host.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Login.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.AddingUpdatingForms.Add_Workstation.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.AdminForms.WorkStationView.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_students.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.LabAssets.uc_lab1_assets.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.LabAssets.uc_lab2_assets.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.uc_assets.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_users.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_system_units.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_assets_inventory.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_schedules.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.InstructorIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Incharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.ResolveComReference.cache
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ExcelDataReader.DataSet.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ExcelDataReader.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ExcelDataReader.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ExcelDataReader.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\ExcelDataReader.DataSet.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddStudent.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditStudent.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddSchedule.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditSchedule.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddUser.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditUser.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddAssets.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.Message.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Interop.MSTSCLib.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Interop.RDS.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.SubAdmin.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddAssetsIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditAssetsIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddSystemUnits.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_system_units_incharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddSystemUnitsIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditSystemUnitsIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.uc_replacement_history.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.Controls.uc_workstations_incharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.LaboratoryInchargeControls.uc_asset_requests.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.uc_assets_instructor.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.RequestForm.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.ReplacementForm.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_calendar_schedules.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddWorkstationIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditWorkstationIncharge.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.InstructorsControls.uc_repair_history.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditSystemUnitsAdmin.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddWorkstationAdmin.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditWorkstationAdmin.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.RequestSchedule.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_temporary_schedules.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\itextsharp.dll
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\bin\Debug\itextsharp.xml
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditUserDetails.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.uc_rooms.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.AddRoom.resources
+C:\CAPSTONE\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory_Management_System.UserControls.AdminControls.Crud.EditRoom.resources
+C:\Users\My Pc\Downloads\Computer Laboratory Management System\Computer Laboratory Management System\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.AssemblyReference.cache
+C:\Users\My Pc\Downloads\Computer Laboratory Management System\Computer Laboratory Management System\Laboratory Management System\Laboratory Management System\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\My Pc\Downloads\Computer Laboratory Management System\Computer Laboratory Management System\Laboratory Management System\Laboratory Management System\obj\Debug\Interop.RDS.dll
+C:\Users\My Pc\Downloads\Computer Laboratory Management System\Computer Laboratory Management System\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.ResolveComReference.cache
+C:\Users\My Pc\Downloads\Computer Laboratory Management System\Computer Laboratory Management System\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory Management System.exe
+C:\Users\My Pc\Downloads\Computer Laboratory Management System\Computer Laboratory Management System\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory Management System.pdb
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.AssemblyReference.cache
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Debug\Interop.RDS.dll
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Debug\Computer Laboratory Management System.csproj.ResolveComReference.cache
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory Management System.exe
+C:\Users\My Pc\source\repos\Laboratory Management System\Laboratory Management System\obj\Debug\Laboratory Management System.pdb
